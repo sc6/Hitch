@@ -25,3 +25,7 @@ proguard/
 
 # Log Files
 *.log
+
+# AndroidManifest file (to hide private key)
+AndroidManifest.xml
+
