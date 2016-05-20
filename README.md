@@ -2,7 +2,7 @@
 
 <strong>About:</strong>
 
-This is an improved version of my Android class final project. This application allow drivers to share their
+This is an improved version of my Android class final project. This application allows drivers to share their
 long drives with other users, and maybe also make a little money.
 
 <strong>Working Notes:</strong>
